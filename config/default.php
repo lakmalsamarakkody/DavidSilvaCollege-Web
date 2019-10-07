@@ -1,11 +1,11 @@
 <?php
 
 // SITE CONFIG
-$_['site_title']			=	'Bandaranayake College';
+$_['site_title']			=	'David De Silva College';
 
 // APP CONFIG
 $_['app_theme']				=	'default';
-$_['base_url']				=	'http://www.bandaranayake.int';
+$_['base_url']				=	'http://davidsilvacollege.int';
 
 // TWIG
 $_['twig_debug']			=	true;

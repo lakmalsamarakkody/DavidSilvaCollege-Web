@@ -39,6 +39,12 @@ a:hover, a:visited, a:link, a:active {
 }
 
 /* NAVBAR : START */
+.navbar .navbar-brand{
+	color: #FFFFFF;
+	font-size: 20px;
+	font-weight: 800;
+}
+
 .navbar .navbar-brand img {
 	height: 50px;
 }

@@ -30,6 +30,13 @@
 }
 /* HERO HEADER : END */
 
+/* VISION MISSION */
+.title{
+	font-size: 30px;
+	font-weight: 800;
+	color: #818181;
+}
+
 /* PRINCIPAL'S MESSAGE : START */
 .section-principal-note .title {
 	font-size: 16px;
