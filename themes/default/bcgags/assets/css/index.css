@@ -1,0 +1,67 @@
+.mag{
+    height: 1000px;
+}
+
+.magemb{
+    height:1000px; 
+    width:100%;
+    float: left;
+}
+
+.maginfo{
+    background-color:#5d0808;
+    height:1000px;
+}
+.magtitle{
+    background-color:#aaaaaa;
+}
+
+.magtitle .magname{
+    color: #333333;
+    text-orientation: upright;
+    writing-mode: vertical-lr; 
+    width: 100%;
+}
+
+.col-md-6 .card-quote {
+    border: 0px;
+}
+
+.col-md-6 .card-quote .title {
+    margin-top: -90px;
+	position: absolute;
+	font-weight: 800;
+    font-size:32px;
+    color: #707070; 
+}
+
+.col-md-6 .card-quote .card-text {
+    font-size: 18px;
+    font-weight: 500;
+	line-height: 25px;
+    margin-left: 40px;
+    color: #aaaaaa;
+}
+
+.bcgagssocial{
+    font-size: 25px;
+    color: #ffffff;
+    background-color: #5d0808;
+}
+
+.bcgagssocial span{
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.social-card {
+    background: white;
+    padding: 12px 12px;
+    border-radius: 5px;
+    border: solid 2px #64686b;
+    font-weight: 500;
+}
+
+.social-card:hover {
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+}
