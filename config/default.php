@@ -5,7 +5,7 @@ $_['site_title']			=	'David De Silva College';
 
 // APP CONFIG
 $_['app_theme']				=	'default';
-$_['base_url']				=	'http://davidsilvacollege.int';
+$_['base_url']				=	'http://davidsilvacollege.localhost';
 
 // TWIG
 $_['twig_debug']			=	true;
