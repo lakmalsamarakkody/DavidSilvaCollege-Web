@@ -1,4 +1,4 @@
-## BANDARANAYAKE COLLEGE ( WEB SITE )
+## DAVID DE SILVA COLLEGE ( WEB SITE )
 
 This is the code repository for avanciro.com web site.
 
